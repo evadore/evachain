@@ -9,6 +9,10 @@
 
 #### RCP Endpoint : https://rpc.evadore.io
 
+#### RPC Documents : http://explorer.evadore.io/eth-rpc-api-docs
+
+#### API Documents : http://explorer.evadore.io/api-docs
+
 
 EvaChain uses the strong structure of the Ethereum network. Powered by Go-Ethereum.
 
