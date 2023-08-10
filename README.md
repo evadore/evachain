@@ -1,3 +1,13 @@
+EvaChain Technical Information
+
+Network ID: 32611
+
+Bootnode Points:
+enode://31c06baafa46158aadc036dc76824f15607fdbd5c49afe292071b782bd7ceeda18f3a1167eab42bbf72a512a99bb08fc97df4664aa32262ee6fcc1464fba5856@89.252.140.146:29061
+
+enode://31c06baafa46158aadc036dc76824f15607fdbd5c49afe292071b782bd7ceeda18f3a1167eab42bbf72a512a99bb08fc97df4664aa32262ee6fcc1464fba5856@188.132.176.178:290
+
+
 EvaChain uses the strong structure of the Ethereum network. Powered by Go-Ethereum.
 
 EvaChain is based on the Go-Ethereum structure. It uses the same base. To clone EvaChain, simply use the Go-Ethereum structure.
